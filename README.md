@@ -29,3 +29,7 @@ https://huggingface.co/nvidia/Mistral-NeMo-Minitron-8B-Base
 https://huggingface.co/meta-llama/Llama-3.1-8B
 ### Llama-3.1-Minitron (Width)
 https://huggingface.co/nvidia/Llama-3.1-Minitron-4B-Width-Base
+
+## Tables
+
+Tables showing experiment results that are not listed in the paper itself are [available in this file.](Set_1_Extra_Tables.pdf)
